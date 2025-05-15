@@ -14,7 +14,7 @@
         height: 1024px;
         right: 50%;
         top: 0;
-        background-image: url("/assets/img/hero-bg-1.webp");
+        background-image: url("./../../assets/img/hero-bg-1.webp");
         z-index: 0;
         background-size: cover;
         background-position: center;
@@ -96,7 +96,7 @@
         &::before {
             height: 70%;
             width: 100%;
-            background-image: url("/assets/img/hero-bg-mobile.webp");
+            background-image: url("./../../assets/img/hero-bg-mobile.webp");
             right: unset;
             left: 50%;
             transform: translateX(-50%);
