@@ -1,0 +1,10 @@
+.footer {
+    padding: clamp(10px, 5vw, 22px) 0;
+    .social {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+}
